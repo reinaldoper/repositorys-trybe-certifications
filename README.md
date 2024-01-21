@@ -1,9 +1,9 @@
+All rights reserved - [LICENSE](LICENCE)
+
 <div align="center">
    <img src="betrybe_logo.jpeg" alt="image trybe" />
 </div>
 
-
-All rights reserved - [LICENSE](LICENCE)
 
 
 # repositorys-trybe-certifications
