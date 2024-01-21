@@ -15,8 +15,6 @@ Repositório de cursos e certificados Trybe
 
 ## Abaixo alguns projetos realizados na Trybe:
 
-<details>
-  <summary><strong>Alguns projetos realizados na Trybe:</strong></summary>
   
 - [FrontEnd Online Store](https://jade-trifle-9cc2b8.netlify.app/) 👨🏼‍🏫 - Aqui está um projeto realizado na Trybe, projeto realizado em grupo, onde a intenção é obter dados de uma API que simula o Mercado Livre. Tecnologias utilizadas:     React.js, javaScript, CSS, bootstrap, HTML..
 - [Trybe futebol clube](https://github.com/reinaldoper/trybe-futebol-clube/tree/main) - Projeto realizado em grupo, onde o back-end foi feito usando sequelize como ORM. Tecnologias: Sequelize, docker, MySql, express, Jest, React.js, javaScript, CSS, bootstrap, HTML..
@@ -28,7 +26,6 @@ Repositório de cursos e certificados Trybe
 - [Dados_Covid-19](https://super-sawine-84e189.netlify.app/) Projeto traz em gráfico dados da Covid-19 no Brasil. Tecnologias utilizadas: React.js, Chart.js, javaScript, hooks, CSS, HTML.
 - [Calculadora ReactJs](https://calculadora-minicientifica.netlify.app/) Mini calculadora científica. Tecnologias utilizadas: React.js, javaScript, hooks, CSS, HTML.
   
-</details>
 
 ---
 
