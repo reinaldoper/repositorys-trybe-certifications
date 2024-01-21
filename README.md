@@ -3,6 +3,9 @@
 </div>
 
 
+All rights reserved - [LICENSE](LICENCE)
+
+
 # repositorys-trybe-certifications
 Repositório de cursos e certificados Trybe
 
