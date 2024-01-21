@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="betrybe_logo.jpeg" border-radius="5px" alt="image trybe" />
+   <img src="betrybe_logo.jpeg" alt="image trybe" />
 </div>
 
 
