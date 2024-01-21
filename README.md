@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="betrybe_logo.jpg" alt="image dio.me" />
+   <img src="betrybe_logo.jpeg" alt="image trybe" />
 </div>
 
 
