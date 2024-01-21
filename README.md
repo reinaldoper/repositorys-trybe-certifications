@@ -1,3 +1,8 @@
+<div align="center">
+   <img src="betrybe_logo.jpg" alt="image dio.me" />
+</div>
+
+
 # repositorys-trybe-certifications
 Repositório de cursos e certificados Trybe
 
