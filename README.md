@@ -1,7 +1,7 @@
 All rights reserved - [LICENSE](LICENCE)
 
-<div align="center" style="border-radius: 10%;">
-   <img src="betrybe_logo.jpeg" alt="image trybe" />
+<div align="center">
+   <img src="betrybe_logo.jpeg" alt="image trybe" style="border-radius: 10%;"/>
 </div>
 
 
